@@ -1,0 +1,427 @@
+fileFormatVersion: 2
+guid: 33f67c9fdf3884d4f9b8075a99d5271b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ak47
+    100002: Camera
+    100004: //RootNode
+    100006: Lamp
+    400000: ak47
+    400002: Camera
+    400004: //RootNode
+    400006: Lamp
+    2300000: ak47
+    3300000: ak47
+    4300000: ak47
+    6400000: ak47
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_001__de_storm_material_1_bmp
+    second: {fileID: 2100000, guid: c54e34141cbc0e64583f5c9e562fee6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_002__de_storm_material_2_bmp
+    second: {fileID: 2100000, guid: b5ce795cb088bb5488f21b611d7fef35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_003__de_storm_material_3_bmp
+    second: {fileID: 2100000, guid: cc5ee334e56758e4faa81d9fbfb80c97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_004__de_storm_material_4_bmp
+    second: {fileID: 2100000, guid: 42309e45ef25f8847a36ed590694ec84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_005__de_storm_material_5_bmp
+    second: {fileID: 2100000, guid: d14b08d44a7ff054294c7a2ca1028481, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_006__de_storm_material_6_bmp
+    second: {fileID: 2100000, guid: 2fd2a3c34c076a048979732b03a4d90e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_007__de_storm_material_7_bmp
+    second: {fileID: 2100000, guid: 548cf2513f7358e468206dd6d78097f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_008__de_storm_material_8_bmp
+    second: {fileID: 2100000, guid: 2a96814a7ae9bf047abd0e10afb675f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_009__de_storm_material_9_bmp
+    second: {fileID: 2100000, guid: 5681903772a26cc4a978002f2733c60d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_010__de_storm_material_10_bmp
+    second: {fileID: 2100000, guid: 468c4a64a4e3d1d42af47ebba7e9be95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_011__de_storm_material_11_bmp
+    second: {fileID: 2100000, guid: ffa1f2fbb9ab03e4086f8b12e6b918ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_012__de_storm_material_12_bmp
+    second: {fileID: 2100000, guid: 93738786301c78146b4fa45237e9b9b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_013__de_storm_material_13_bmp
+    second: {fileID: 2100000, guid: 9e1f6c50845eecc44ab973f70434ef91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_014__de_storm_material_14_bmp
+    second: {fileID: 2100000, guid: 70280805ef0fbf84393420069c7a31da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_015__de_storm_material_15_bmp
+    second: {fileID: 2100000, guid: 9569e0c3292d84240a1effab41616482, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_016__de_storm_material_16_bmp
+    second: {fileID: 2100000, guid: 92cd784e7d330524fa40c86dface28c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_017__de_storm_material_17_bmp
+    second: {fileID: 2100000, guid: 41a8c7e1a3119e54ca47f30d70386d3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_018__de_storm_material_18_bmp
+    second: {fileID: 2100000, guid: 559df37edc8f6a346a7f1f768d7cb4af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_019__de_storm_material_19_bmp
+    second: {fileID: 2100000, guid: 1a471ce50841e7a4b98dde3c0fbe1874, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_020__de_storm_material_20_bmp
+    second: {fileID: 2100000, guid: d09cfb85852c5324c9b63a467e0fd852, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_021__de_storm_material_21_bmp
+    second: {fileID: 2100000, guid: 03dfa488a5f179e4a9f8a5be474f9bcd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_022__de_storm_material_22_bmp
+    second: {fileID: 2100000, guid: 3a28430da33f13d4cb261e07b32df6f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_023__de_storm_material_23_bmp
+    second: {fileID: 2100000, guid: 9e5fc6414cb0bd547896a1113c5c1133, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_024__de_storm_material_24_bmp
+    second: {fileID: 2100000, guid: e8b5ac56ba4f7984e896c96e2094fef0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_025__de_storm_material_25_bmp
+    second: {fileID: 2100000, guid: b580554a8ff697548bff115388accfa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_026__de_storm_material_26_bmp
+    second: {fileID: 2100000, guid: c70777ba75d3ce545ab0313af6a0807b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_027__de_storm_material_27_bmp
+    second: {fileID: 2100000, guid: 02e4d1e7d69e52249b8868ab7c884b68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_028__de_storm_material_28_bmp
+    second: {fileID: 2100000, guid: e53f15bceda871747a873a47fa9f55ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_029__de_storm_material_29_bmp
+    second: {fileID: 2100000, guid: 07d8470d7b3720e4090533db66f2213e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_030__de_storm_material_30_bmp
+    second: {fileID: 2100000, guid: e31313186956eff458c790299ae3fba5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_031__de_storm_material_31_bmp
+    second: {fileID: 2100000, guid: fb805f6891a1a304da9cc240faf47690, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_032__de_storm_material_32_bmp
+    second: {fileID: 2100000, guid: 5da1324cca5f26b4bb1014fc11bcf887, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_033__de_storm_material_33_bmp
+    second: {fileID: 2100000, guid: 50f98f405218c53448ea0c1c0f18f915, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_034__de_storm_material_34_bmp
+    second: {fileID: 2100000, guid: bd41441df6f95724f8f6e4ae52f1e707, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_035__de_storm_material_35_bmp
+    second: {fileID: 2100000, guid: e85f3bd2a6de7b148b4639a142d01544, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_036__de_storm_material_36_bmp
+    second: {fileID: 2100000, guid: 440a4e27b66d72c4e93ce2aa6bb51dba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_037__de_storm_material_37_bmp
+    second: {fileID: 2100000, guid: 6654555fa9b38bb458bec24a85782395, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_038__de_storm_material_38_bmp
+    second: {fileID: 2100000, guid: 1295a6ed999c83a45b7aa7524e261616, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_039__de_storm_material_39_bmp
+    second: {fileID: 2100000, guid: 3fc97ab97534b924ab356a79a26ca977, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_040__de_storm_material_40_bmp
+    second: {fileID: 2100000, guid: 4d6af2cc86a4b34448e92734c0a5fd6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_041__de_storm_material_41_bmp
+    second: {fileID: 2100000, guid: dd44c10a7bccd2e4db625a97a24c21e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_042__de_storm_material_42_bmp
+    second: {fileID: 2100000, guid: d5359e7e5ab2b8a418d5d419ccfba6f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_043__de_storm_material_43_bmp
+    second: {fileID: 2100000, guid: 97e925963f658204cb53cfdd26c9acd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_044__de_storm_material_44_bmp
+    second: {fileID: 2100000, guid: 4db7ec52c9a57904da4c13b40813e62b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_045__de_storm_material_45_bmp
+    second: {fileID: 2100000, guid: b0d9a9175e8375d458274b5094a33b14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_046__de_storm_material_46_bmp
+    second: {fileID: 2100000, guid: 631f8f5e5404c6645bc90df8d781c065, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_047__de_storm_material_47_bmp
+    second: {fileID: 2100000, guid: ae7daa1045f331e40ba758ea1ae44195, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_048__de_storm_material_48_bmp
+    second: {fileID: 2100000, guid: 6ca78c8da83c4d04ca373f0fcf698e29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_049__de_storm_material_49_bmp
+    second: {fileID: 2100000, guid: 45d02e84e47ed634e8216f3e66cd48c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_050__de_storm_material_50_bmp
+    second: {fileID: 2100000, guid: cc823744f947c484b8050dfe328d12c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_051__de_storm_material_51_bmp
+    second: {fileID: 2100000, guid: 2258c767106867b4cb49b0cd203735b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_052__de_storm_material_52_bmp
+    second: {fileID: 2100000, guid: 29c44bbc60465084cb511c3fdc3f1764, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_053__de_storm_material_53_bmp
+    second: {fileID: 2100000, guid: 9d1d17c569340e0438fb81968ed9c4ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_054__de_storm_material_54_bmp
+    second: {fileID: 2100000, guid: 11b1a8808c1e4ce4a91b0dedcf244747, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_055__de_storm_material_55_bmp
+    second: {fileID: 2100000, guid: 50fa1b0155714d946a6a21280be7212d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_056__de_storm_material_56_bmp
+    second: {fileID: 2100000, guid: e8027d421b0344645a62b179f876a37b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_057__de_storm_material_57_bmp
+    second: {fileID: 2100000, guid: 56f2dffebaf63f849b63c56185994cd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_058__de_storm_material_58_bmp
+    second: {fileID: 2100000, guid: cbabdf8b18d030a42873c96fa2ee7231, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_059__de_storm_material_59_bmp
+    second: {fileID: 2100000, guid: 95e931ef3450d55469fd2da3b3637401, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_060__de_storm_material_60_bmp
+    second: {fileID: 2100000, guid: a79cb8008878e7147ad06cc7637a3ddd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_061__de_storm_material_61_bmp
+    second: {fileID: 2100000, guid: 78a5eb7bc2b75ea448b858c74f3544ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_062__de_storm_material_62_bmp
+    second: {fileID: 2100000, guid: 834aee6431beefa4fb957920e9f07137, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_063__de_storm_material_63_bmp
+    second: {fileID: 2100000, guid: 89e8a33506d12754a8b4417afda12e7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm_064__de_storm_material_64_bmp
+    second: {fileID: 2100000, guid: 116d6430abe2056488f94d075c084d07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_de_storm__de_storm_material_0_bmp
+    second: {fileID: 2100000, guid: 3e28b77bee1fa7042bfbd646ba80e5e7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 115
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1.15
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
